@@ -17,7 +17,10 @@ class MyApp extends StatelessWidget {
         brightness: Brightness.light,
         scaffoldBackgroundColor: Colors.white,
       ),
-      home: HomeView(),
+      home: HomeView(
+
+        
+      ),
     );
   }
 }
